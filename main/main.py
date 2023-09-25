@@ -9,8 +9,6 @@ model2_path = './models/model2.pt'
 model1 = YOLO(model1_path)
 model2 = YOLO(model2_path)
 
-
-
 def recog(og):
     image = og.copy()
     n = 1
