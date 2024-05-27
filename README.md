@@ -22,6 +22,9 @@ This project is a web application for detecting brain tumors from uploaded image
 
 
 
+![Block Diagram](images/flow.png)
+
+
 ## Features
 
 - Upload an image file (jpg, png, jpeg)
