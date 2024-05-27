@@ -4,7 +4,7 @@ This project is a web application for detecting brain tumors from uploaded image
 
 ## How It Works
 
-![Detection Process](images/mri.gif)
+![Detection Process](images/mri2.gif)
 
 
 
