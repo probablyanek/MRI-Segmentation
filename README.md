@@ -79,5 +79,3 @@ This project is licensed under the MIT License.
 - This application was built using [Streamlit](https://streamlit.io/) and [OpenCV](https://opencv.org/).
 
 ---
-
-Feel free to customize this README.md to better suit your project's specifics and details.
